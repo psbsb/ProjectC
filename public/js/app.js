@@ -6,5 +6,7 @@ var movieCount = 0;
 var category = "Now Showing";
 var currentIndex=0;
 
+var translate_url = new URL(" https://vdnq9zkxe4.execute-api.us-east-1.amazonaws.com/translate/translate")
+var newText ="";
 
 
